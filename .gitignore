@@ -1,0 +1,8 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+
+# Vector Database (we generate this locally, no need to upload)
+faiss_index/

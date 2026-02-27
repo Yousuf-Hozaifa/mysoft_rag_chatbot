@@ -1,0 +1,7 @@
+gradio==4.44.1
+faiss-cpu
+sentence-transformers
+PyPDF2
+google-generativeai
+python-dotenv
+numpy
