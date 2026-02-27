@@ -5,4 +5,3 @@ PyPDF2
 google-generativeai
 python-dotenv
 numpy
-pyaudioop
